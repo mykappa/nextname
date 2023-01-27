@@ -12,4 +12,4 @@ Returns the next unused file or folder name. The name is created by incrementing
 
 ## License
 
-See [license.txt](.\license.txt)
+See [license.txt](license.txt)
